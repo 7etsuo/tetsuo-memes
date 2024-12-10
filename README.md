@@ -1,15 +1,21 @@
 # TETSUO Meme Repository
 ![tetsuo](https://github.com/user-attachments/assets/b61aa2de-ce91-4d88-8756-16713f3b3add)
 
-This repository is dedicated to collecting TETSUO-related memes for community use and promotion. It serves as a central resource where contributors can submit new content and where community members can find approved memes related to the TETSUO coin on Solana.
-
 ## Purpose
 The goal is to maintain a curated library of quality memes that reflect the TETSUO community and brand. By centralizing these assets, users and contributors can easily find and share approved memes in various channels.
+
+## Directory Structure
+- **`memes/images/`**: All image-based memes (e.g., `.jpg`, `.png`, `.gif`) should be placed here.
+- **`memes/video/`**: All video-based memes (e.g., `.mp4`, `.mov`) should be placed here.
+
+Ensure your submissions are organized into the correct directory before making a pull request.
 
 ## How to Contribute
 1. Fork this repository to your personal GitHub account.
 2. Create a new branch in your forked repository for your meme submissions.
-3. Add your meme images to the `memes` directory.  
+3. Add your memes to the appropriate directory:
+   - Image-based memes go in `memes/images/`
+   - Video-based memes go in `memes/video/`
 4. Commit your changes and push them to your branch.
 5. Open a pull request to this repository’s `main` branch with a brief description of the meme and its relevance.
 
